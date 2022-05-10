@@ -3,6 +3,7 @@
 [gimp]: https://www.gimp.org
 [savedgif]: https://github.com/devEuphrates/FSTgame/blob/master/gif1.gif
 # Five Stars Tycoon _A Hotel Management Game_
+This is not the project file. Due to my plans to release this game I cannot publish it's sources.
 
 A management game where you build your dream hotel and try to keep your customers happy and well fed.
 
